@@ -1,0 +1,13 @@
+TP orgs are free and you can have up to 10 of them at a time. To create one, go to any hands-on challenge, click the down arrow next to Launch and select Create a Trailhead Playground.. If you hit your max or want to manage your TPs, you can view and delete them from your Trailhead profile. If you ever need your TP’s username and password, you can access them using the instructions here.
+
+
+
+Launch your Trailhead Playground by scrolling to the bottom of this page and clicking Launch.
+From the App Launcher ( App Launcher icon), find and select Playground Starter.
+If you don’t see the Playground Starter app, copy this package installation link and check out Install a Package or App to Complete a Trailhead Challenge on Trailhead Help. Skip the remaining steps.
+If you see the Playground Starter app, click the Install a Package tab.
+Paste 04t3h0000043scGAAQ into the Package ID field and click Install.
+Select Install for All Users, then click Install.
+When it prompts you to Approve Third-party access, click Yes and click Continue. This provides updated information to the map in the Dreamhouse App.
+When the installation completes, click Done.
+From the App Launcher ( App Launcher icon), select the Dreamhouse App.
